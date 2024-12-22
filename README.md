@@ -1,7 +1,7 @@
 1. Скачати архів з плагіном та встановити
 2. Скачати і активувати плагін Woocommerce
-4. у директорію ../woocommerce/templates/emails/ завантажити файл з директорії плагіну ../wp-my-product-webspark/emails/product-submitted.php 
-5. У директорію ../woocommerce/templates/emails/plain завантажити файл з директорії плагіну ../wp-my-product-webspark/emails/plain/product-submitted.php
+4. у директорію ../wp-content/plugins/woocommerce/templates/emails/ завантажити файл з директорії плагіну ../wp-my-product-webspark/emails/product-submitted.php 
+5. У директорію ../wp-content/plugins/woocommerce/templates/emails/plain завантажити файл з директорії плагіну ../wp-my-product-webspark/emails/plain/product-submitted.php
 6. Активувати встановлений плагін Woo My Product Submit (Webspark)
 7. Оновити постійні посилання в адмін панелі (Settings -> Permalinks, Post Name, Save Changes)
 
